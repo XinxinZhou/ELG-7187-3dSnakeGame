@@ -1,4 +1,6 @@
-# ELG-7187-3dSnakeGame## Introduction
+# ELG-7187-3dSnakeGame
+
+## Introduction
 
 Our project is a 3D snake game, which is similar to traditional snake game but implemented in the 3D way. Users control the movement of the snake head to eat the food (rabbit). After successfully eating the food, the snake gets longer.
 
